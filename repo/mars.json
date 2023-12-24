@@ -1,17 +1,17 @@
 {
-	"version": "0.9.0",
+	"version": "0.11.0",
 	"description": "A github flavored markdown to html converter",
 	"homepage": "https://github.com/insomnimus/mars",
 	"license": "MIT",
 	"bin": "mars.exe",
 	"x32": {
-		"url": "https://github.com/insomnimus/mars/releases/download/v0.9.0/mars-i686-pc-windows-msvc.zip",
+		"url": "https://github.com/insomnimus/mars/releases/download/v0.11.0/mars-i686-pc-windows-msvc.zip",
 		"githubPattern": "https://github.com/insomnimus/mars/releases/download/v${version}/mars-i686-pc-windows-msvc.zip",
-		"hash": "SHA256:F5A9B01463FFA0B0AABCB04BE0655238DFEC4673BE4CD33ACCB15539ADA195A1"
+		"hash": "SHA256:19ED5E0EC39BFC9C57BD41FB80665452BA8F4707647F10C8C9740643553E868A"
 	},
 	"x64": {
-		"url": "https://github.com/insomnimus/mars/releases/download/v0.9.0/mars-x86_64-pc-windows-msvc.zip",
+		"url": "https://github.com/insomnimus/mars/releases/download/v0.11.0/mars-x86_64-pc-windows-msvc.zip",
 		"githubPattern": "https://github.com/insomnimus/mars/releases/download/v${version}/mars-x86_64-pc-windows-msvc.zip",
-		"hash": "SHA256:1AD848F02553A3A3984145A0A27AF674D142A7AE70514476056DC2F11ACF9688"
+		"hash": "SHA256:AB2033482E48AAD33E9E4AA0DACCEDA582719FFF7ED0EB38B7B0AE900338D7DE"
 	}
 }
