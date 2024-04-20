@@ -1,17 +1,17 @@
 {
-	"version": "2.0.5",
+	"version": "2.1.0",
 	"description": "Enhanced alternative to GNU which.",
 	"homepage": "https://github.com/insomnimus/wh",
 	"license": "MIT",
-	"x64": {
-		"url": "https://github.com/insomnimus/wh/releases/download/v2.0.5/wh-x86_64-pc-windows-msvc.zip",
-		"hash": "52c4365a12e1bb3981230f8ae4cc43f5359388c28921e76778cb4cb3fe6cc46f",
-		"githubPattern": "https://github.com/insomnimus/wh/releases/download/v${version}/wh-x86_64-pc-windows-msvc.zip"
-	},
+	"bin": "wh.exe",
 	"x32": {
-		"url": "https://github.com/insomnimus/wh/releases/download/v2.0.5/wh-i686-pc-windows-msvc.zip",
-		"hash": "93179f506ae4d19b44dba933151a1176aef802d454d84971e1c6fda505cb34a5",
-		"githubPattern": "https://github.com/insomnimus/wh/releases/download/v${version}/wh-i686-pc-windows-msvc.zip"
+		"url": "https://github.com/insomnimus/wh/releases/download/v2.1.0/wh-i686-pc-windows-msvc.zip",
+		"githubPattern": "https://github.com/insomnimus/wh/releases/download/v${version}/wh-i686-pc-windows-msvc.zip",
+		"hash": "SHA256:92CAEC1F637C9C58B48A924F16317ACE4EFB28B66075939840A8F9A3D3F14A49"
 	},
-	"bin": "wh.exe"
+	"x64": {
+		"url": "https://github.com/insomnimus/wh/releases/download/v2.1.0/wh-x86_64-pc-windows-msvc.zip",
+		"githubPattern": "https://github.com/insomnimus/wh/releases/download/v${version}/wh-x86_64-pc-windows-msvc.zip",
+		"hash": "SHA256:7470E279429E2A1C0921ACECAD0123F0368F535F1D8C89239D786D207C373FB8"
+	}
 }
